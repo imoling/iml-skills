@@ -207,7 +207,7 @@ flowchart LR
 ### 生成 PPT 图片提示词
 
 ```text
-帮我生成 5 页“央国企 AI 应用培训”的 PPT 图片提示词，白底科技蓝风格。
+帮我生成 5 页“企业AI 应用培训”的 PPT 图片提示词，白底科技蓝风格。
 ```
 
 输出将包含制作简报和逐页 prompt，例如：
@@ -321,17 +321,6 @@ iML-PPTX 不追求把所有东西都强行变成可编辑对象。
 - 图片上的说明文字、callout、编号：应尽量重建为可编辑对象
 
 这样能兼顾视觉还原、编辑效率和最终文件稳定性。
-
-## 当前仓库内容
-
-本仓库包含若干 iML-PPTX 相关实验产物：
-
-- `outputs/manual-20260603-iml-pptx-article/`：GPT Image 到可编辑 PPT 的案例课件
-- `outputs/manual-20260603-workbuddy/`：产品培训课件示例
-- `outputs/manual-20260603-loomy/`：带产品截图的办公培训课件示例
-- `outputs/manual-20260603-openclaw/`：两页产品介绍 PPT 示例
-- `outputs/iml-pptx-article-images*/`：文章配图与流程图素材
-- `tools/`：文章配图生成脚本
 
 ## 一句话总结
 
