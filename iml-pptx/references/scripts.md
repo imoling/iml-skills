@@ -24,7 +24,7 @@ python3 scripts/smoke_test.py
 Create a production brief template.
 
 ```bash
-python3 scripts/start_brief.py --topic "央国企AI培训" --audience "央企数科公司管理者" --mode full --style "白底科技蓝商务培训"
+python3 scripts/start_brief.py --topic "企业AI培训" --audience "央企数科公司管理者" --mode full --style "白底科技蓝商务培训"
 ```
 
 ## `scripts/icon_picker.py`

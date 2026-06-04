@@ -39,7 +39,7 @@ def main() -> None:
     validate_skill_file()
     py = "python3"
 
-    run([py, "scripts/start_brief.py", "--topic", "央国企AI培训", "--audience", "管理者", "--mode", "prompt"])
+    run([py, "scripts/start_brief.py", "--topic", "企业AI培训", "--audience", "管理者", "--mode", "prompt"])
     run([py, "scripts/icon_picker.py", "治理 风险 合规"])
     run([py, "scripts/icon_narrative.py", "--page-type", "流程页", "--title", "AI应用演进路线", "--modules", "对话助手|知识增强|流程智能体|AI原生运营"])
     run([py, "scripts/connector_narrative.py", "--pattern", "Hero + satellites", "--modules", "中心|模型底座|工具生态|治理审计"])

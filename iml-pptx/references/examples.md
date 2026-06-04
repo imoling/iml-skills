@@ -4,7 +4,7 @@ Micro end-to-end examples for the most common iml-pptx requests.
 
 ## 1. Prompt Mode: Multi-Page Business Training Deck
 
-User: `帮我写5页央国企AI应用培训的PPT图片提示词，白底科技蓝风格。`
+User: `帮我写5页企业AI应用培训的PPT图片提示词，白底科技蓝风格。`
 
 Read:
 
@@ -22,8 +22,8 @@ Output shape:
 
 ```text
 制作简报
-- 主题：央国企AI应用培训
-- 受众：央国企管理者/业务骨干
+- 主题：企业AI应用培训
+- 受众：企业管理者/业务骨干
 - 交付模式：prompt
 - 样式主题：白底、科技蓝、商务培训信息图
 - 页面节奏：总览 / 场景 / 方法论 / 治理 / 行动路径
