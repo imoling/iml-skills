@@ -1,0 +1,4 @@
+interface:
+  display_name: "IML PPTX"
+  short_description: "生成PPT图片提示词、页面图片和可编辑中文PPTX"
+  default_prompt: "先判断交付模式，再按内容选择页面类型和版式家族，生成/取得16:9页面图；全链路生产时以页面图为视觉真相复刻为可编辑PPTX，并说明预览检查结果。"
